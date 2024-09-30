@@ -83,9 +83,9 @@ from bs4 import BeautifulSoup
 - **log_file_path** = "./code_log.txt"
 
 
-#Authors
+# Authors
 David Acosta Diaz
 Data Engineer & Software Developer
 
-#License
+# License
 This project is licensed under the MIT License.
