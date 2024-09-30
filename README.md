@@ -85,6 +85,7 @@ from bs4 import BeautifulSoup
 
 # Authors
 David Acosta Diaz
+
 Data Engineer & Software Developer
 
 # License
