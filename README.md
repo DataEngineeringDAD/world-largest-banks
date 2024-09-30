@@ -74,12 +74,13 @@ from bs4 import BeautifulSoup
 ```
 
 ## Known Entities for the Code
-**url** = 'https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks'
-**table_attr** = ["Name", "MC_USD_Billion"]
-**output_csv_path** = "./Largest_banks_data.csv"
-**db_name** = "Banks.db"
-**table_name** = "Largest_banks"
-**log_file_path** = "./code_log.txt"
+
+- **url** = 'https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks'
+- **table_attr** = ["Name", "MC_USD_Billion"]
+- **output_csv_path** = "./Largest_banks_data.csv"
+- **db_name** = "Banks.db"
+- **table_name** = "Largest_banks"
+- **log_file_path** = "./code_log.txt"
 
 
 #Authors
